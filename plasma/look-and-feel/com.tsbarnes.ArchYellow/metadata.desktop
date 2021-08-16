@@ -1,6 +1,10 @@
 [Desktop Entry]
 Comment=Designed to go with the ArchLiquid wallpaper
 Name=ArchYellow
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Type=Service
+X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Thea Barnes
 X-KDE-PluginInfo-Category=Plasma Look And Feel
 X-KDE-PluginInfo-Email=thea@tsbarnes.com
@@ -10,3 +14,6 @@ X-KDE-PluginInfo-Name=com.tsbarnes.ArchYellow
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/tsbarnes/ArchYellow
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1575075,kns://icons.knsrc/api.kde-look.org/1549558,kns://plasma-themes.knsrc/api.kde-look.org/1575076
+X-Plasma-MainScript=defaults

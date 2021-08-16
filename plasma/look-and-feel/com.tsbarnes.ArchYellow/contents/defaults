@@ -1,11 +1,11 @@
-[kcminputrc][Mouse]
-cursorTheme=Fluent-yellow-cursors
-
 [kdeglobals][General]
 ColorScheme=ArchYellow
 
 [kdeglobals][KDE]
 widgetStyle=Breeze
+
+[kdeglobals][Icons]
+Theme=Papirus-PaleOrange
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
