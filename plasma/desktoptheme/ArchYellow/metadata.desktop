@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=ArchYellow
+Comment=Dark Plasma style with yellow highlights, based on Fluent
+
+X-KDE-PluginInfo-Author=Thea Barnes
+X-KDE-PluginInfo-Email=thea@tsbarnes.com
+X-KDE-PluginInfo-Name=default
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Website=https://github.com/tsbarnes/ArchYellow
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=ArchLiquid
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+intensity=1.4
+saturation=10
+
+[AdaptiveTransparency]
+enabled=true
