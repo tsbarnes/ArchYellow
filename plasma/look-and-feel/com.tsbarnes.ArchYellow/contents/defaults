@@ -5,7 +5,7 @@ ColorScheme=ArchYellow
 widgetStyle=Breeze
 
 [kdeglobals][Icons]
-Theme=Papirus-PaleOrange
+Theme=Papirus-Paleorange
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
